@@ -46,7 +46,7 @@ int print_i(va_list i)
  * Return: number of chars and digits printed
  */
 int print_d(va_list d)
-{
+
 	int a[10];
 	int j, m, n, sum, count;
 
